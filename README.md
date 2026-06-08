@@ -11,7 +11,7 @@ Transforming data into actionable insights, scalable cloud solutions, and impact
 <a href="https://www.linkedin.com/in/clarence-olayta-981b80359/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin">
 </a>
-<a href="clarenceolayta.work@gmail.com">
+<a href="mailto:clarenceolayta.work@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail">
 </a>
 <a href="#">
