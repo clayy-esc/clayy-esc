@@ -32,7 +32,6 @@ Currently focused on:
 
 * Data Analytics & Data Science 
 * Cloud Computing & Cloud Services
-* Database Design & Management
 * Modern Web Application Development
 
 ---
