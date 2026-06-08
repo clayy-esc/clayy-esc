@@ -95,7 +95,7 @@ Building:
 
 ---
 
-## 06 — Philosophy
+## 05 — Philosophy
 
 > **Progress Over Perfection**
 >
@@ -103,7 +103,7 @@ Building:
 
 ---
 
-## 08 — Digital Presence
+## 06 — Digital Presence
 
 ```yaml
 Name: Clarence Olayta
