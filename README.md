@@ -63,9 +63,9 @@ Building:
 
 ## Philosophy
 
-> **Progress Over Perfection**
->
-> I believe meaningful growth comes from consistent improvement. Every project, challenge, and iteration is an opportunity to learn, refine, and move forward.
+***"Progress Over Perfection"***
+
+*I believe meaningful growth comes from consistent improvement. Every project, challenge, and iteration is an opportunity to learn, refine, and move forward.*
 
 ---
 
