@@ -2,73 +2,40 @@
 
 # Clarence Olayta
 
-### Data Analyst • Data Science Enthusiast • Cloud Computing Learner • Web Developer
-
-Transforming data into actionable insights, scalable cloud solutions, and impactful digital experiences.
-
-<br>
+### Data Analytics | Data Science Enthusiast | AWS Cloud | Web Developer
 
 <a href="https://www.linkedin.com/in/clarence-olayta-981b80359/">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=flat-square&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-blue?style=flat">
 </a>
 <a href="mailto:clarenceolayta.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat&logo=gmail&logoColor=red">
 </a>
 <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-black?style=flat-square">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=flat">
 </a>
 
 </div>
 
 ---
 
-## 01 — About
+## About
 
-I transform complex datasets into meaningful insights and build technology solutions that support informed decision making.
+A Bachelor of Science in Computer Science graduate with a strong interest in data analytics, data science, cloud computing, and web development, with hands on experience in developing data driven solutions, analyzing datasets, and building web apps using modern technologies. 
 
-My work combines **data analytics, data science, cloud technologies, and web development** to create efficient, scalable, and user focused solutions that solve real world problems.
-
-Currently focused on:
-
-* Data Analytics & Data Science 
-* Cloud Computing & Cloud Services
-* Modern Web Application Development
+Passionate about using data, machine learning, and cloud platforms to create scalable solutions and generate actionable insights that support business and technology goals. Driven by continuous learning and curiosity, I continuously expand my knowledge of emerging technologies and best practices to build efficient, adaptable, and impactful solutions.
 
 ---
 
-## 02 — Core Expertise
-
-<table>
-<tr>
-<td width=250px>
-
-### Data & Analytics
+## Knowledge Areas
 
 * Data Analysis
-* Data Modeling
-* Data Visualization
-* SQL
-* Python
-
-</td>
-
-<td width=250px>
-
-### Development & Cloud
-
-* JavaScript
-* React
-* Tailwind
-* Flask
-* Cloud Platforms
-
-</td>
-</tr>
-</table>
+* Data Science
+* Cloud Computing
+* Web Development
 
 ---
 
-## 03 — Technology Stack
+## Tech Stack
 
 <p align="center">
 
@@ -78,7 +45,7 @@ Currently focused on:
 
 ---
 
-## 04 — Current Focus
+## Current Focus
 
 ```text
 Learning:
@@ -89,12 +56,12 @@ Learning:
 
 Building:
 ├── Data Pipelines
-└── Web Applications
+└── Web Apps
 ```
 
 ---
 
-## 05 — Philosophy
+## Philosophy
 
 > **Progress Over Perfection**
 >
@@ -102,7 +69,7 @@ Building:
 
 ---
 
-## 06 — Digital Presence
+## Digital Presence
 
 ```yaml
 Name: Clarence Olayta
@@ -110,14 +77,8 @@ Name: Clarence Olayta
 Role:
   - Data Analyst
   - Data Science Enthusiast
-  - Cloud Computing Learner
+  - AWS Cloud
   - Web Developer
-
-Specialization:
-  - Data Analytics
-  - Data Visualization
-  - Cloud Solutions
-  - Web Development
 
 Mission:
   Transform data into meaningful insights and build technology that creates impact.
