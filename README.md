@@ -20,16 +20,18 @@
 
 ## About
 
-A Bachelor of Science in Computer Science graduate with a strong interest in data analytics, data science, cloud computing, and web development, with hands on experience in developing data driven solutions, analyzing datasets, and building web apps using modern technologies. 
+Adaptable Computer Science graduate and data science enthusiast with hands on experience in data analytics, data visualization, web development, and cloud platforms. Experienced in analyzing diverse datasets, developing interactive dashboards, building web applications, and deploying cloud-based solutions that support informed decision making.
 
-Passionate about using data, machine learning, and cloud platforms to create scalable solutions and generate actionable insights that support business and technology goals. Driven by continuous learning and curiosity, I continuously expand my knowledge of emerging technologies and best practices to build efficient, adaptable, and impactful solutions.
+Passionate about transforming data into meaningful insights through analytics and visualization while continuously expanding knowledge in data science, machine learning, and cloud technologies to solve real world problems.
 
 ---
 
 ## Knowledge Areas
 
-* Data Analysis
+* Data Analytics
+* Data Visualization
 * Data Science
+* Business Intelligence
 * Cloud Computing
 * Web Development
 
@@ -39,7 +41,7 @@ Passionate about using data, machine learning, and cloud platforms to create sca
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,python,javascript,react,flask,tailwind,mysql,git,github,docker,aws,vscode,figma&perline=7" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,python,flask,mysql,git,github,docker,aws,vscode,figma&perline=7" />
 
 </p>
 
@@ -51,12 +53,12 @@ Passionate about using data, machine learning, and cloud platforms to create sca
 Learning:
 ├── Data Science
 ├── Machine Learning
-├── Large Language Models
+├── AWS Cloud Technologies
 └── Backend Development
 
 Building:
 ├── Data Pipelines
-└── Web Apps
+└── Cloud-based Web Apps
 ```
 
 ---
@@ -77,7 +79,7 @@ Name: Clarence Olayta
 Role:
   - Data Analyst
   - Data Science Enthusiast
-  - AWS Cloud
+  - AWS Cloud Learner
   - Web Developer
 
 Mission:
