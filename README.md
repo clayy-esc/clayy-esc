@@ -4,8 +4,8 @@
 
 **Data Analytics · Data Science · Cloud · Web Development**
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/clarence-olayta)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/clayy-esc)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:clarenceolayta.work@gmail.com)
 
 </div>
@@ -43,6 +43,7 @@ Currently deepening expertise in machine learning and backend development, with 
 **Data & BI**
 
 [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 [![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#)
 
