@@ -53,7 +53,6 @@ Currently deepening expertise in machine learning and backend development, with 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)
 [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)](#)
-[![Firebase](https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white)](#)
 
 **Design & Tools**
 
@@ -76,9 +75,6 @@ Currently deepening expertise in machine learning and backend development, with 
 
 **Web Crawler — OnlineJobsPH** · `Python · Scrapy`
 > Built a Scrapy-based crawler to extract and structure publicly available job listings into JSON format for downstream analysis.
-
-**Aquaflow** · `FlutterFlow · Firebase`
-> Mobile app for water refilling stations with real-time ordering, delivery scheduling, and inventory management, backed by Firebase Auth and Firestore.
 
 ---
 
