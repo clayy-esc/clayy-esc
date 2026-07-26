@@ -1,6 +1,6 @@
 <div align="center">
 
-# Clarence P. Olayta
+# Clarence Olayta
 
 **Data Analytics · Data Science · Cloud · Web Development**
 
