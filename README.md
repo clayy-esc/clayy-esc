@@ -1,6 +1,6 @@
 <div align="center">
 
-# Clarence Olayta
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Clarence+%F0%9F%91%8B;Data+%2B+Cloud+%2B+Web+Enthusiast;Turning+Data+Into+Decisions" alt="Typing SVG" />
 
 **Data Analytics · Data Science · Cloud · Web Development**
 
@@ -13,61 +13,95 @@
 
 ---
 
-## About
+### 👋 About Me
 
-Computer Science graduate from Bicol University with hands-on experience turning data into decisions — through analytics, visualization dashboards, and cloud-based web applications. I've worked across the stack: from scraping and cleaning datasets to deploying serverless architectures on AWS and building front-end dashboards powered by transformer models.
+Adaptable Computer Science graduate and data science enthusiast with hands-on experience in data analytics, web development, and cloud platforms. I enjoy turning raw data into visual, decision-ready stories — from analyzing case studies to designing and deploying full-stack dashboards on multi-cloud infrastructure.
 
-Currently deepening expertise in machine learning and backend development, with a focus on building systems that are both analytically rigorous and practically useful.
+- 🔭 Currently building comparative data-visualization dashboards powered by transformer models
+- 🌱 Deepening my skills in machine learning, backend systems, and cloud architecture
+- 💬 Ask me about data storytelling, Power BI, or serverless AWS design
+- ⚡ Fun fact: I'd rather debug a Lambda function than fill out a spreadsheet by hand
 
 ---
 
-## Tech Stack
+### 🛠️ Tech Stack
 
 | Category | Stack |
 |---|---|
-| **Languages** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)<br>[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)<br>[![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](#)<br>[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)<br>[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) |
-| **Frameworks & Libraries** | [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)<br>[![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#)<br>[![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)<br>[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#)<br>[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#)<br>[![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#)<br>[![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#) |
-| **Data & BI** | [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#)<br>[![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)<br>[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)<br>[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) |
-| **Cloud & DevOps** | [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#)<br>[![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#)<br>[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)<br>[![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=000)](#) |
-| **Design & Tools** | [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)<br>[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#)<br>[![VS Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)](#) |
+| **Languages** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) |
+| **Frameworks & Libraries** | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) |
+| **Tools & Platforms** | [![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff)](#) [![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-00E599?logo=postgresql&logoColor=000)](#) [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#) [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#) [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff)](#) [![FlutterFlow](https://img.shields.io/badge/FlutterFlow-4053D6?logoColor=fff)](#) |
 
 ---
 
-## Selected Projects
+### 📌 Featured Projects
 
-**Entity-Level Framing Dashboard** · `React · Vite · Tailwind · Python · Neon Postgres · HuggingFace`
-> Visualization dashboard for analyzing how local and international news outlets frame coverage of the West Philippine Sea dispute. Integrated NER and framing prediction models via Hugging Face Spaces; deployed across Vercel, Render, and Neon Postgres.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Power BI Pizza Sales Analytics** · `Power BI · Power Query · DAX`
-> End-to-end BI solution: cleaned transactional data via Power Query, built DAX KPIs for sales and order trends, and designed an interactive dashboard with custom tooltips and slicers.
+**🔎 Entity-Level Framing Dashboard**
+`React · Vite · Tailwind · Python · Neon Postgres · HuggingFace`
 
-**AWS Serverless Web Application** · `AWS Lambda · DynamoDB · Amplify · API Gateway · Cognito`
-> Serverless architecture on AWS Free Tier featuring secure authentication, VPC endpoints, IAM access control, and CloudWatch monitoring.
+Visualization dashboard analyzing how local and international news outlets frame coverage of a geopolitical dispute. Integrated NER and framing-prediction models via Hugging Face Spaces; deployed across Vercel, Render, and Neon Postgres.
 
-**Web Crawler — OnlineJobsPH** · `Python · Scrapy`
-> Built a Scrapy-based crawler to extract and structure publicly available job listings into JSON format for downstream analysis.
+</td>
+<td width="50%" valign="top">
+
+**📊 Power BI Sales Analytics**
+`Power BI · Power Query · DAX`
+
+End-to-end BI solution — cleaned transactional data in Power Query, built DAX KPIs for revenue and order trends, and designed an interactive dashboard with slicers and custom tooltips.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**☁️ AWS Serverless Web App**
+`AWS Lambda · DynamoDB · Amplify · API Gateway · Cognito`
+
+Serverless architecture on AWS Free Tier featuring secure authentication, VPC endpoints, IAM access control, and CloudWatch monitoring.
+
+</td>
+<td width="50%" valign="top">
+
+**🕸️ Web Crawler — OnlineJobsPH**
+`Python · Scrapy`
+
+Scrapy-based crawler that extracts and structures publicly available job listings into JSON for downstream analysis.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Focus
+### 📈 GitHub Stats
 
-```text
-Learning   →  Machine Learning · AWS Cloud · Backend Development
-Building   →  Data Pipelines · Cloud-based Web Applications
-```
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=clayy-esc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clayy-esc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-## Philosophy
+### 🏆 Certifications & Leadership
 
-> *"Progress Over Perfection"*
-
-Meaningful growth comes from consistent iteration — every project is an opportunity to learn, refine, and move forward.
+- Participant, AWS AI & ML Scholars Challenge Completion (2026)
+- Member, Google Developer Groups (GDG) On-Campus (2023–2024)
 
 ---
 
 <div align="center">
 
-*Data reveals opportunities. Technology brings them to life.*
+*"Progress over perfection — every project is a chance to learn, refine, and build something a little better."*
+
+⭐ **Thanks for stopping by — feel free to explore my repos or reach out!**
 
 </div>
