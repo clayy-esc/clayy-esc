@@ -81,10 +81,6 @@ Scrapy-based crawler that extracts and structures publicly available job listing
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=clayy-esc&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clayy-esc&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
@@ -105,3 +101,19 @@ Scrapy-based crawler that extracts and structures publicly available job listing
 ⭐ **Thanks for stopping by — feel free to explore my repos or reach out!**
 
 </div>
+
+<div align="center" style="line-height:1">
+  <a href="https://www.kimi.com" target="_blank"><img alt="Chat" src="https://img.shields.io/badge/🤖%20Chat-Kimi%20K3-ff6b6b?color=1783ff&logoColor=white"/></a>
+  <a href="https://www.moonshot.ai" target="_blank"><img alt="Homepage" src="https://img.shields.io/badge/Homepage-Moonshot%20AI-white?logo=Kimi&logoColor=white"/></a>
+</div>
+
+<div align="center" style="line-height: 1;">
+  <a href="https://huggingface.co/moonshotai" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Moonshot%20AI-ffc107?color=ffc107&logoColor=white"/></a>
+  <a href="https://twitter.com/kimi_moonshot" target="_blank"><img alt="Twitter Follow" src="https://img.shields.io/badge/Twitter-Kimi.ai-white?logo=x&logoColor=white"/></a>
+  <a href="https://discord.gg/TYU2fdJykW" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-Kimi.ai-white?logo=discord&logoColor=white"/></a>
+  <a href="https://modelscope.cn/organization/moonshotai" target="_blank"><img alt="ModelScope" src="https://img.shields.io/badge/ModelScope-Moonshot%20AI-white?labelColor=rgb(99%2C%2074%2C%255)"/></a>
+</div>
+<div align="center" style="line-height: 1;">
+  <a href="https://huggingface.co/moonshotai/Kimi-K3/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Kimi_K3-f5de53?&color=f5de53"/></a>
+</div>
+
