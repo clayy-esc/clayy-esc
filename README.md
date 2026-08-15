@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Clarence+%F0%9F%91%8B;Data+%2B+Cloud+%2B+Web+Enthusiast;Turning+Data+Into+Decisions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Clarence+%F0%9F%91%8B;Data+%2B+Cloud+%2B+Web+Developer;Building+data-driven+and+AI-powered+projects" alt="Typing SVG" />
 
 **Data Analytics · Data Science · Cloud · Web Development**
 
@@ -15,7 +15,7 @@
 
 ### 👋 About Me
 
-Adaptable Computer Science graduate and data science enthusiast with hands-on experience in data analytics, web development, and cloud platforms. I enjoy turning raw data into visual, decision-ready stories — from analyzing case studies to designing and deploying full-stack dashboards on multi-cloud infrastructure.
+Adaptable Computer Science graduate and data science enthusiast with hands-on experience in data analytics, web development, and cloud platforms. I enjoy turning raw data into visual, decision-ready insights and building applications that make complex information easier to understand.
 
 - 🔭 Currently building comparative data-visualization dashboards powered by transformer models
 - 🌱 Deepening my skills in machine learning, backend systems, and cloud architecture
@@ -28,9 +28,9 @@ Adaptable Computer Science graduate and data science enthusiast with hands-on ex
 
 | Category | Stack |
 |---|---|
-| **Languages** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) |
-| **Frameworks & Libraries** | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Matplotlib](https://custom-icon-badges.demolab.com/badge/Matplotlib-71D291?logo=matplotlib&logoColor=fff)](#) [![Seaborn](https://img.shields.io/badge/Seaborn-4EAEAA?logo=python&logoColor=fff)](#) [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#) [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](#) |
-| **Tools & Platforms** | [![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff)](#) [![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-00E599?logo=postgresql&logoColor=000)](#) [![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)](#) [![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#) [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#) [![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff)](#) [![FlutterFlow](https://img.shields.io/badge/FlutterFlow-4053D6?logoColor=fff)](#) |
+| **Languages** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](#) [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) |
+| **Frameworks & Libraries** | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)](#) [![Scrapy](https://img.shields.io/badge/Scrapy-60A839?logo=python&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](#) |
+| **Tools & Platforms** | [![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff)](#) [![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-00E599?logo=postgresql&logoColor=fff)](#) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](#) [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff)](#) |
 
 ---
 
@@ -40,36 +40,36 @@ Adaptable Computer Science graduate and data science enthusiast with hands-on ex
 <tr>
 <td width="50%" valign="top">
 
-**🔎 Entity-Level Framing Dashboard**
-`React · Vite · Tailwind · Python · Neon Postgres · HuggingFace`
+**👥 Employee Attrition & HR Analytics Dashboard**
+`Python · Power BI · SQL · DAX`
 
-Visualization dashboard analyzing how local and international news outlets frame coverage of a geopolitical dispute. Integrated NER and framing-prediction models via Hugging Face Spaces; deployed across Vercel, Render, and Neon Postgres.
+Interactive HR analytics dashboard focused on attrition trends, workforce composition, and key retention drivers to support data-informed people decisions.
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Power BI Sales Analytics**
-`Power BI · Power Query · DAX`
+**🎵 Music Listener Segmentation with Behavioral Clustering**
+`Python · scikit-learn · Pandas · Jupyter`
 
-End-to-end BI solution — cleaned transactional data in Power Query, built DAX KPIs for revenue and order trends, and designed an interactive dashboard with slicers and custom tooltips.
+Behavioral clustering project that groups listeners by usage patterns and preferences to uncover actionable audience segments for personalization and recommendation.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**☁️ AWS Serverless Web App**
-`AWS Lambda · DynamoDB · Amplify · API Gateway · Cognito`
+**📰 Entity-Level Framing of News Coverage on the West Philippine Sea Dispute**
+`RoBERTa · BERT · Transformers · Python`
 
-Serverless architecture on AWS Free Tier featuring secure authentication, VPC endpoints, IAM access control, and CloudWatch monitoring.
+NLP research project using RoBERTa and BERT-based transformer models to analyze how entities are framed across news coverage of the West Philippine Sea dispute.
 
 </td>
 <td width="50%" valign="top">
 
-**🕸️ Web Crawler — OnlineJobsPH**
+**🕸️ Web Crawling and Scraping with Scrapy**
 `Python · Scrapy`
 
-Scrapy-based crawler that extracts and structures publicly available job listings into JSON for downstream analysis.
+Web crawling and scraping project built with Scrapy for structured data extraction, cleaning, and downstream analysis.
 
 </td>
 </tr>
@@ -116,4 +116,3 @@ Scrapy-based crawler that extracts and structures publicly available job listing
 <div align="center" style="line-height: 1;">
   <a href="https://huggingface.co/moonshotai/Kimi-K3/blob/main/LICENSE"><img alt="License" src="https://img.shields.io/badge/License-Kimi_K3-f5de53?&color=f5de53"/></a>
 </div>
-
