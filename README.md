@@ -71,6 +71,16 @@ NLP research project using RoBERTa and BERT-based transformer models to analyze 
 
 ---
 
+### 📈 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=default&hide_border=true&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=111111&dates=111111" alt="GitHub Streak" />
+
+</div>
+
+---
+
 ### 🏆 Certifications & Leadership
 
 - Participant, AWS AI & ML Scholars Challenge Completion (2026)
