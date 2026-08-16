@@ -75,7 +75,9 @@ NLP research project using RoBERTa and BERT-based transformer models to analyze 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api?username=clayy-esc&show_icons=true&theme=default&hide_border=true&bg_color=FFFFFF&title_color=111111&text_color=111111&icon_color=111111" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=default&hide_border=true&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=111111&dates=111111" alt="GitHub Streak" />
 
 </div>
 
