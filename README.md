@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Clarence+%F0%9F%91%8B;Data+%2B+Cloud+%2B+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Clarence+%F0%9F%91%8B;Data+%2B+Cloud+%2B+Web+Developer" alt="Typing SVG" />
 
 **Data Analytics · Data Science · Cloud · Web Development**
 
