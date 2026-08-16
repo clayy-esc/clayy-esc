@@ -38,7 +38,7 @@ Fun fact: I'd rather debug a Lambda function than fill out a spreadsheet by hand
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 **Employee Attrition & HR Analytics Dashboard**
 `Python · Power BI · SQL · DAX`
@@ -46,7 +46,9 @@ Fun fact: I'd rather debug a Lambda function than fill out a spreadsheet by hand
 Interactive HR analytics dashboard focused on attrition trends, workforce composition, and key retention drivers to support data-informed people decisions.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td width="100%" valign="top">
 
 **Music Listener Segmentation with Behavioral Clustering**
 `Python · scikit-learn · Pandas · Jupyter`
@@ -56,20 +58,12 @@ Behavioral clustering project that groups listeners by usage patterns and prefer
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
 **Entity-Level Framing of News Coverage on the West Philippine Sea Dispute**
 `RoBERTa · BERT · Transformers · Python`
 
 NLP research project using RoBERTa and BERT-based transformer models to analyze how entities are framed across news coverage of the West Philippine Sea dispute.
-
-</td>
-<td width="50%" valign="top">
-
-**Web Crawling and Scraping with Scrapy**
-`Python · Scrapy`
-
-Web crawling and scraping project built with Scrapy for structured data extraction, cleaning, and downstream analysis.
 
 </td>
 </tr>
