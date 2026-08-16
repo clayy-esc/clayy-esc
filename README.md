@@ -5,6 +5,7 @@
 **Data Analytics · Data Science · Cloud · Web Development**
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/clarence-olayta)
+[![Kaggle](https://custom-icon-badges.demolab.com/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/clarenceolayta)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/clayy-esc)
 [![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:clarenceolayta.work@gmail.com)
 
