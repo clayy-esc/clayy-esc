@@ -83,7 +83,7 @@ NLP research project using RoBERTa and BERT-based transformer models to analyze 
 
 <div align="center">
 
-![Thank You of Visiting!](https://img.shields.io/badge/Thank%20You%20of%20Visiting%21-F97316?logoColor=fff)
+![Thank you for visiting!](https://img.shields.io/badge/Thank%20you%20for%20visiting%21-F97316?logoColor=fff)
 
 </div>
 
