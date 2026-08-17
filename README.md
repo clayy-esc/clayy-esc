@@ -15,12 +15,7 @@
 
 ### 🟠 About Me
 
-Adaptable Computer Science graduate and data science enthusiast with hands-on experience in data analytics, web development, and cloud platforms. I enjoy turning raw data into visual, decision-ready insights and building applications that make complex information easier to understand.
-
-Currently building comparative data-visualization dashboards powered by transformer models.
-Deepening my skills in machine learning, backend systems, and cloud architecture.
-Ask me about data storytelling, Power BI, or serverless AWS design.
-Fun fact: I'd rather debug a Lambda function than fill out a spreadsheet by hand.
+Adaptable Computer Science graduate and data science enthusiast with hands-on experience in data analytics, web development, and cloud platforms. Experienced in analyzing data-related case studies and creating visualizations for data-driven storytelling and decision-making; built and deployed a comparative framing analysis dashboard across a multi-cloud platform. Driven to continuously learn and apply machine learning and cloud technologies to solve complex problems.
 
 ---
 
