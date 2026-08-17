@@ -15,17 +15,31 @@
 
 ### 🟠 About Me
 
-Adaptable Computer Science graduate and data science enthusiast with hands-on experience in data analytics, web development, and cloud platforms. Experienced in analyzing data-related case studies and creating visualizations for data-driven storytelling and decision-making; built and deployed a comparative framing analysis dashboard across a multi-cloud platform. Driven to continuously learn and apply machine learning and cloud technologies to solve complex problems.
+Adaptable Computer Science graduate and data science enthusiast with hands-on experience in data analytics, web development, and cloud platforms. Experienced in analyzing data-related case studies and developing end-to-end solutions that drive meaningful insights. Passionate about translating complex data into actionable strategies and leveraging cloud technologies to build scalable applications.
 
 ---
 
 ### 🟠 Tech Stack
 
-| Category | Stack |
-|---|---|
-| **Languages** | [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)](#) [![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) |
-| **Frameworks & Libraries** | [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=fff)](#) [![Scrapy](https://img.shields.io/badge/Scrapy-60A839?logo=python&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](#) |
-| **Tools & Platforms** | [![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff)](#) [![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-00E599?logo=postgresql&logoColor=fff)](#) [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](#) [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=fff)](#) |
+<div align="center">
+
+**Languages**
+<br/>
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=fff)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
+
+**Frameworks & Libraries**
+<br/>
+[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](#) [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)](#) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff)](#)
+
+**Data & Analytics**
+<br/>
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=fff)](#)
+
+**Cloud & Tools**
+<br/>
+[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff)](#) [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)](#)
+
+</div>
 
 ---
 
@@ -78,7 +92,7 @@ NLP research project using RoBERTa and BERT-based transformer models to analyze 
 
 <div align="center">
 
-*“Progress over perfection — every project is a chance to learn, refine, and build something a little better.”*
+*"Progress over perfection — every project is a chance to learn, refine, and build something a little better."*
 
 [![Thank you for visiting!](https://img.shields.io/badge/Thank%20you%20for%20visiting%21-F97316?logo=github&logoColor=fff)](#)
 
