@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Clarence+%F0%9F%91%94;Data+%2B+Cloud+%2B+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Clarence;Data+%2B+Cloud+%2B+Web+Developer" alt="Typing SVG" />
 
 **Data Analytics · Data Science · Cloud · Web Development**
 
@@ -75,7 +75,7 @@ NLP research project using RoBERTa and BERT-based transformer models to analyze 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=default&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=F97316&dates=F97316" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=default&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=000000&dates=000000" alt="GitHub Streak" />
 
 </div>
 
