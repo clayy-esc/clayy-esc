@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Clarence!;Data+%2B+Cloud+%2B+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Clarence;Data+%2B+Cloud+%2B+Web+Developer" alt="Typing SVG" />
 
 **Data Analytics · Data Science · Cloud · Web Development**
 
@@ -80,6 +80,8 @@ NLP research project using RoBERTa and BERT-based transformer models to analyze 
 </div>
 
 ---
+
+<div align="center">
 
 ![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20visiting-F97316?style=for-the-badge&logoColor=fff)
 
