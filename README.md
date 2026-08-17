@@ -85,6 +85,6 @@ NLP research project using RoBERTa and BERT-based transformer models to analyze 
 
 *“Progress over perfection — every project is a chance to learn, refine, and build something a little better.”*
 
-![Thank you for visiting!](https://img.shields.io/badge/Thank%20you%20for%20visiting%21-F97316?logo=github&logoColor=fff)(#)
+[![Thank you for visiting!](https://img.shields.io/badge/Thank%20you%20for%20visiting%21-F97316?logo=github&logoColor=fff)](#)
 
 </div>
