@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38B2AC&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Clarence+%F0%9F%91%8B;Data+%2B+Cloud+%2B+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Clarence+%F0%9F%91%8B;Data+%2B+Cloud+%2B+Web+Developer" alt="Typing SVG" />
 
 **Data Analytics · Data Science · Cloud · Web Development**
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/clarence-olayta)
-[![Kaggle](https://custom-icon-badges.demolab.com/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/clarenceolayta)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/clayy-esc)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:clarenceolayta.work@gmail.com)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-F97316?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/clarence-olayta)
+[![Kaggle](https://custom-icon-badges.demolab.com/badge/Kaggle-F97316?logo=kaggle&logoColor=fff)](https://www.kaggle.com/clarenceolayta)
+[![GitHub](https://img.shields.io/badge/GitHub-F97316?logo=github&logoColor=fff)](https://github.com/clayy-esc)
+[![Email](https://img.shields.io/badge/Email-F97316?logo=gmail&logoColor=fff)](mailto:clarenceolayta.work@gmail.com)
 
 </div>
 
@@ -75,7 +75,7 @@ NLP research project using RoBERTa and BERT-based transformer models to analyze 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=default&hide_border=true&background=FFFFFF&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=111111&dates=111111" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=default&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=F97316&dates=F97316" alt="GitHub Streak" />
 
 </div>
 
