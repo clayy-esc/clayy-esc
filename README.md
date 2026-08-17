@@ -81,17 +81,6 @@ NLP research project using RoBERTa and BERT-based transformer models to analyze 
 
 ---
 
-### 🟠 Certifications & Leadership
-
-- Participant, AWS AI & ML Scholars Challenge Completion (2026)
-- Member, Google Developer Groups (GDG) On-Campus (2023–2024)
-
----
-
-<div align="center">
-
-*"Progress over perfection — every project is a chance to learn, refine, and build something a little better."*
-
-**Thank you for visiting — feel free to explore my repositories or connect with me.**
+![Thanks for visiting](https://img.shields.io/badge/Thanks%20for%20visiting-F97316?style=for-the-badge&logoColor=fff)
 
 </div>
