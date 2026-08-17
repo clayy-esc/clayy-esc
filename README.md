@@ -21,25 +21,7 @@ Adaptable Computer Science graduate and data science enthusiast with hands-on ex
 
 ### 🟠 Tech Stack
 
-<div align="center">
-
-**Languages**
-<br/>
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=fff)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
-
-**Frameworks & Libraries**
-<br/>
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](#) [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=fff)](#) [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=fff)](#)
-
-**Data & Analytics**
-<br/>
-[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](#) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff)](#) [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=fff)](#)
-
-**Cloud & Tools**
-<br/>
-[![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?logo=googlecloud&logoColor=fff)](#) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) [![DBeaver](https://img.shields.io/badge/DBeaver-382923?logo=dbeaver&logoColor=fff)](#) [![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=fff)](#)
-
-</div>
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=fff)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=fff)](#) [![Seaborn](https://img.shields.io/badge/Seaborn-0C55A0?logo=python&logoColor=fff)](#) [![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](#) [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)](#) [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff)](#) [![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?logo=googlecloud&logoColor=fff)](#) [![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-00E599?logo=postgresql&logoColor=fff)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](#) [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#) [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)](#) [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff)](#) [![FlutterFlow](https://img.shields.io/badge/FlutterFlow-FF6B6B?logo=flutter&logoColor=fff)](#) [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=fff)](#) [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)](#) [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=fff)](#) [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000)](#)
 
 ---
 
