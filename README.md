@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Clarence;Data+%2B+Cloud+%2B+Web+Developer" alt="Typing SVG" />
 
-**Data Science | AI/ML | Full-Stack Web Dev | Cloud**
+**Data Science | AI/ML | Web Dev | Cloud**
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/clarence-olayta)
 [![Kaggle](https://custom-icon-badges.demolab.com/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/clarenceolayta)
