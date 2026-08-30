@@ -1,36 +1,89 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A140A,50:0E4429,100:39D353&height=120&section=header" width="100%"/>
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hi+there%2C+I%27m+Clarence;Data+%2B+Cloud+%2B+Web+Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=%3E+whoami;Clarence+Olayta;%3E+status%3A+online_" alt="Typing SVG" />
 
-**Data Science | AI/ML | Web Dev | Cloud**
+<sub>DATA SCIENCE • AI/ML • WEB DEV • CLOUD</sub>
 
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/clarence-olayta)
-[![Kaggle](https://custom-icon-badges.demolab.com/badge/Kaggle-20BEFF?logo=kaggle&logoColor=fff)](https://www.kaggle.com/clarenceolayta)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](https://github.com/clayy-esc)
-[![Email](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=fff)](mailto:clarenceolayta.work@gmail.com)
+<br><br>
+
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A140A?style=flat-square&logo=linkedin-white&logoColor=39D353)](https://www.linkedin.com/in/clarence-olayta)
+[![Kaggle](https://custom-icon-badges.demolab.com/badge/Kaggle-0A140A?style=flat-square&logo=kaggle&logoColor=39D353)](https://www.kaggle.com/clarenceolayta)
+[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-0A140A?style=flat-square&logo=github&logoColor=39D353)](https://github.com/clayy-esc)
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-0A140A?style=flat-square&logo=mail&logoColor=39D353)](mailto:clarenceolayta.work@gmail.com)
 
 </div>
 
+<br>
+
 ---
 
-### 🟠 About Me
+## `$ 01_about.sh`
 
 Adaptable Computer Science graduate and data science enthusiast with hands-on experience in data analytics, web development, and cloud platforms. Experienced in analyzing data-related case studies and developing end-to-end solutions that drive meaningful insights. Passionate about translating complex data into actionable strategies and leveraging cloud technologies to build scalable applications.
 
----
-
-### 🟠 Tech Stack
-
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#) [![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=fff)](#) [![HTML](https://img.shields.io/badge/HTML-E34C26?logo=html5&logoColor=fff)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=fff)](#) [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=fff)](#) [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=fff)](#) [![Seaborn](https://img.shields.io/badge/Seaborn-0C55A0?logo=python&logoColor=fff)](#) [![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=fff)](#) [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000)](#) [![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?logo=tailwindcss&logoColor=fff)](#) [![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=fff)](#) [![Google BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?logo=googlecloud&logoColor=fff)](#) [![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-00E599?logo=postgresql&logoColor=fff)](#) [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=000)](#) [![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=fff)](#) [![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff)](#) [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff)](#) [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff)](#) [![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=fff)](#) [![FlutterFlow](https://img.shields.io/badge/FlutterFlow-FF6B6B?logo=flutter&logoColor=fff)](#) [![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=fff)](#) [![Jupyter](https://img.shields.io/badge/Jupyter-F37726?logo=jupyter&logoColor=fff)](#) [![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=fff)](#) [![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=fff)](#) [![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=000)](#)
+<br>
 
 ---
 
-### 🟠 Featured Projects
+## `$ 02_stack.sh`
 
-<table>
+<div align="center">
+
+**Languages & Data**
+<br>
+![Python](https://img.shields.io/badge/Python-0A140A?style=flat-square&logo=python&logoColor=39D353)
+![SQL](https://img.shields.io/badge/SQL-0A140A?style=flat-square&logo=mysql&logoColor=39D353)
+![Pandas](https://img.shields.io/badge/Pandas-0A140A?style=flat-square&logo=pandas&logoColor=39D353)
+![NumPy](https://img.shields.io/badge/NumPy-0A140A?style=flat-square&logo=numpy&logoColor=39D353)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0A140A?style=flat-square&logo=python&logoColor=39D353)
+![Seaborn](https://img.shields.io/badge/Seaborn-0A140A?style=flat-square&logo=python&logoColor=39D353)
+![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0A140A?style=flat-square&logo=scikitlearn&logoColor=39D353)
+
+**Web**
+<br>
+![HTML](https://img.shields.io/badge/HTML-0A140A?style=flat-square&logo=html5&logoColor=39D353)
+![CSS](https://img.shields.io/badge/CSS-0A140A?style=flat-square&logo=css3&logoColor=39D353)
+![JavaScript](https://img.shields.io/badge/JavaScript-0A140A?style=flat-square&logo=javascript&logoColor=39D353)
+![React](https://img.shields.io/badge/React-0A140A?style=flat-square&logo=react&logoColor=39D353)
+![Tailwind](https://img.shields.io/badge/Tailwind-0A140A?style=flat-square&logo=tailwindcss&logoColor=39D353)
+![Flask](https://img.shields.io/badge/Flask-0A140A?style=flat-square&logo=flask&logoColor=39D353)
+
+**Cloud & Data Platforms**
+<br>
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-0A140A?style=flat-square&logo=googlecloud&logoColor=39D353)
+![Neon Postgres](https://img.shields.io/badge/Neon%20Postgres-0A140A?style=flat-square&logo=postgresql&logoColor=39D353)
+![Power BI](https://img.shields.io/badge/Power%20BI-0A140A?style=flat-square&logo=powerbi&logoColor=39D353)
+![AWS](https://img.shields.io/badge/AWS-0A140A?style=flat-square&logo=amazonaws&logoColor=39D353)
+![Docker](https://img.shields.io/badge/Docker-0A140A?style=flat-square&logo=docker&logoColor=39D353)
+
+**Tools & Design**
+<br>
+![GitHub](https://img.shields.io/badge/GitHub-0A140A?style=flat-square&logo=github&logoColor=39D353)
+![Figma](https://img.shields.io/badge/Figma-0A140A?style=flat-square&logo=figma&logoColor=39D353)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-0A140A?style=flat-square&logo=adobeillustrator&logoColor=39D353)
+![FlutterFlow](https://img.shields.io/badge/FlutterFlow-0A140A?style=flat-square&logo=flutter&logoColor=39D353)
+![Colab](https://img.shields.io/badge/Google%20Colab-0A140A?style=flat-square&logo=googlecolab&logoColor=39D353)
+![Jupyter](https://img.shields.io/badge/Jupyter-0A140A?style=flat-square&logo=jupyter&logoColor=39D353)
+![Vercel](https://img.shields.io/badge/Vercel-0A140A?style=flat-square&logo=vercel&logoColor=39D353)
+![Render](https://img.shields.io/badge/Render-0A140A?style=flat-square&logo=render&logoColor=39D353)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0A140A?style=flat-square&logo=huggingface&logoColor=39D353)
+
+</div>
+
+<br>
+
+---
+
+## `$ 03_projects.sh`
+
+<table width="100%">
 <tr>
+<td width="6" bgcolor="#39D353">&nbsp;</td>
 <td width="100%" valign="top">
 
+![PROJECT 01](https://img.shields.io/badge/PROJECT-01-39D353?style=flat-square&labelColor=0A140A)
 **Employee Attrition & HR Analytics Dashboard**
 `Python · Power BI · SQL · DAX`
 
@@ -38,9 +91,12 @@ Interactive HR analytics dashboard focused on attrition trends, workforce compos
 
 </td>
 </tr>
+<tr><td colspan="2" height="8"></td></tr>
 <tr>
+<td width="6" bgcolor="#39D353">&nbsp;</td>
 <td width="100%" valign="top">
 
+![PROJECT 02](https://img.shields.io/badge/PROJECT-02-39D353?style=flat-square&labelColor=0A140A)
 **Music Listener Segmentation with Behavioral Clustering**
 `Python · scikit-learn · Pandas · Jupyter`
 
@@ -48,9 +104,12 @@ Behavioral clustering project that groups listeners by usage patterns and prefer
 
 </td>
 </tr>
+<tr><td colspan="2" height="8"></td></tr>
 <tr>
+<td width="6" bgcolor="#39D353">&nbsp;</td>
 <td width="100%" valign="top">
 
+![PROJECT 03](https://img.shields.io/badge/PROJECT-03-39D353?style=flat-square&labelColor=0A140A)
 **Entity-Level Framing of News Coverage on the West Philippine Sea Dispute**
 `RoBERTa · BERT · Transformers · Python`
 
@@ -60,22 +119,32 @@ NLP research project using RoBERTa and BERT-based transformer models to analyze 
 </tr>
 </table>
 
----
-
-### 🟠 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=default&hide_border=true&background=00000000&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=000000&dates=000000" alt="GitHub Streak" />
-
-</div>
+<br>
 
 ---
 
+## `$ 04_stats.sh`
+
 <div align="center">
 
-*"Progress over perfection — every project is a chance to learn, refine, and build something a little better."*
-
-[![Thank you for visiting!](https://img.shields.io/badge/Thank%20you%20for%20visiting%21-F97316?logo=github&logoColor=fff)](#)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clayy-esc&theme=default&hide_border=true&background=0A140A&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=EDEDED&dates=8A8A8A&currStreakNum=EDEDED&sideNums=EDEDED" alt="GitHub Streak" />
 
 </div>
+
+<br>
+
+---
+
+## `$ 05_contact.sh`
+
+<div align="center">
+
+`> "Progress over perfection — every project is a chance to learn, refine, and build something a little better."`
+
+<br><br>
+
+[![Thank you for visiting!](https://img.shields.io/badge/Thank%20you%20for%20visiting%21-0A140A?style=flat-square&logo=github&logoColor=39D353)](#)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:0E4429,100:0A140A&height=100&section=footer" width="100%"/>
