@@ -21,7 +21,7 @@
 
 ## `$ 01_about.sh`
 
-Adaptable Computer Science graduate and data science enthusiast with hands-on experience in data analytics, web development, and cloud platforms. Experienced in analyzing data-related case studies and developing end-to-end solutions that drive meaningful insights. Passionate about translating complex data into actionable strategies and leveraging cloud technologies to build scalable applications.
+Computer Science graduate specializing in data science, artificial intelligence/machine learning, web development, and cloud infrastructures. Experienced in analyzing and transforming raw data into data-driven insights, creating interactive dashboards, and developing web applications deployed across multiple cloud platforms.
 
 <br>
 
@@ -63,7 +63,6 @@ Adaptable Computer Science graduate and data science enthusiast with hands-on ex
 ![GitHub](https://img.shields.io/badge/GitHub-0A140A?style=flat-square&logo=github&logoColor=39D353)
 ![Figma](https://img.shields.io/badge/Figma-0A140A?style=flat-square&logo=figma&logoColor=39D353)
 ![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-0A140A?style=flat-square&logo=adobeillustrator&logoColor=39D353)
-![FlutterFlow](https://img.shields.io/badge/FlutterFlow-0A140A?style=flat-square&logo=flutter&logoColor=39D353)
 ![Colab](https://img.shields.io/badge/Google%20Colab-0A140A?style=flat-square&logo=googlecolab&logoColor=39D353)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0A140A?style=flat-square&logo=jupyter&logoColor=39D353)
 ![Vercel](https://img.shields.io/badge/Vercel-0A140A?style=flat-square&logo=vercel&logoColor=39D353)
@@ -84,8 +83,8 @@ Adaptable Computer Science graduate and data science enthusiast with hands-on ex
 <td width="100%" valign="top">
 
 ![PROJECT 01](https://img.shields.io/badge/PROJECT-01-39D353?style=flat-square&labelColor=0A140A)
-**Employee Attrition & HR Analytics Dashboard**
-`Python · Power BI · SQL · DAX`
+**Power BI: Employee Attrition & HR Analytics Dashboard**
+`Google BigQuery · SQL · Power BI · DAX`
 
 Interactive HR analytics dashboard focused on attrition trends, workforce composition, and key retention drivers to support data-informed people decisions.
 
@@ -98,7 +97,7 @@ Interactive HR analytics dashboard focused on attrition trends, workforce compos
 
 ![PROJECT 02](https://img.shields.io/badge/PROJECT-02-39D353?style=flat-square&labelColor=0A140A)
 **Music Listener Segmentation with Behavioral Clustering**
-`Python · scikit-learn · Pandas · Jupyter`
+`Kaggle · Scikit-Learn · Python · Pandas · NumPy · Matplotlib · Seaborn`
 
 Behavioral clustering project that groups listeners by usage patterns and preferences to uncover actionable audience segments for personalization and recommendation.
 
@@ -110,8 +109,8 @@ Behavioral clustering project that groups listeners by usage patterns and prefer
 <td width="100%" valign="top">
 
 ![PROJECT 03](https://img.shields.io/badge/PROJECT-03-39D353?style=flat-square&labelColor=0A140A)
-**Entity-Level Framing of News Coverage on the West Philippine Sea Dispute**
-`RoBERTa · BERT · Transformers · Python`
+**MediaScopePH: Entity-Level Framing of News Coverage on the West Philippine Sea Dispute using RoBERTa and BERT-based Transformer Models**
+`React · Vite · TailwindCSS · Vercel · Render · Neon PostgreSQL · HuggingFace`
 
 NLP research project using RoBERTa and BERT-based transformer models to analyze how entities are framed across news coverage of the West Philippine Sea dispute.
 
