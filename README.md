@@ -86,7 +86,8 @@ Computer Science graduate specializing in data science, artificial intelligence/
 **Power BI: Employee Attrition & HR Analytics Dashboard**
 `Google BigQuery · SQL · Power BI · DAX`
 
-Interactive HR analytics dashboard focused on attrition trends, workforce composition, and key retention drivers to support data-informed people decisions.
+- Built a 5-page Power BI dashboard on BigQuery/SQL data covering 5,000 employees, revealing an 18% overall attrition rate that peaked at 24% in Customer Support.
+- Authored 16 DAX measures across burnout, engagement, compensation, and AI adoption, surfacing burnout scores up to 5.1 and promotion gaps up to 2.4 years among leavers.
 
 </td>
 </tr>
@@ -99,7 +100,8 @@ Interactive HR analytics dashboard focused on attrition trends, workforce compos
 **Music Listener Segmentation with Behavioral Clustering**
 `Kaggle · Scikit-Learn · Python · Pandas · NumPy · Matplotlib · Seaborn`
 
-Behavioral clustering project that groups listeners by usage patterns and preferences to uncover actionable audience segments for personalization and recommendation.
+- Applied K-Means clustering on 4,000 listener records to surface 6 interpretable, demographically-unbiased behavioral personas.
+- Built a feature engineering and preprocessing pipeline that resolved a 0.98 multicollinearity issue, enabling production-ready real-time persona scoring.
 
 </td>
 </tr>
@@ -112,7 +114,9 @@ Behavioral clustering project that groups listeners by usage patterns and prefer
 **MediaScopePH: Entity-Level Framing of News Coverage on the West Philippine Sea Dispute using RoBERTa and BERT-based Transformer Models**
 `React · Vite · TailwindCSS · Vercel · Render · Neon PostgreSQL · HuggingFace`
 
-NLP research project using RoBERTa and BERT-based transformer models to analyze how entities are framed across news coverage of the West Philippine Sea dispute.
+- Built an interactive dashboard with Apache ECharts to visualize entity-level framing patterns across local and international news coverage.
+- Combined a pre-trained NER model with cloud-hosted classifiers on HuggingFace Spaces for real-time, auto-selected framing predictions.
+- Deployed the app across Vercel, Render, Neon PostgreSQL, and HuggingFace for reliable public access and persistent result storage.
 
 </td>
 </tr>
