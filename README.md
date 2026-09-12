@@ -21,7 +21,7 @@
 
 ## `$ 01_about.sh`
 
-Computer Science graduate specializing in data science, artificial intelligence/machine learning, web development, and cloud infrastructures. Experienced in analyzing and transforming raw data into data-driven insights, creating interactive dashboards, and developing web applications deployed across multiple cloud platforms.
+Computer Science graduate specializing in data science, artificial intelligence/machine learning, web development, and cloud infrastructures. Experienced in analyzing and transforming raw data into data-driven insights, designing interactive dashboards, and developing web applications deployed across multiple cloud platforms.
 
 <br>
 
@@ -86,8 +86,8 @@ Computer Science graduate specializing in data science, artificial intelligence/
 **Power BI: Employee Attrition & HR Analytics Dashboard**
 `Google BigQuery · SQL · Power BI · DAX`
 
-- Built a 5-page Power BI dashboard on BigQuery/SQL data covering 5,000 employees, revealing an 18% overall attrition rate that peaked at 24% in Customer Support.
-- Authored 16 DAX measures across burnout, engagement, compensation, and AI adoption, surfacing burnout scores up to 5.1 and promotion gaps up to 2.4 years among leavers.
+- Created a 5-page Power BI dashboard connected to BigQuery to track attrition across 5,000 employees, surfacing an 18% overall attrition rate, peaking at 24% in Customer Support.
+- Developed 16 DAX measures to transform raw HR data into actionable KPIs, highlighting a 1.3 higher burnout score and a 0.5 wider promotional gap among departing employees. 
 
 </td>
 </tr>
@@ -100,8 +100,8 @@ Computer Science graduate specializing in data science, artificial intelligence/
 **Music Listener Segmentation with Behavioral Clustering**
 `Kaggle · Scikit-Learn · Python · Pandas · NumPy · Matplotlib · Seaborn`
 
-- Applied K-Means clustering on 4,000 listener records to surface 6 interpretable, demographically-unbiased behavioral personas.
-- Built a feature engineering and preprocessing pipeline that resolved a 0.98 multicollinearity issue, enabling production-ready real-time persona scoring.
+- Built a K-Means model to analyze 4,000 listener records for behavior-based personas, delivering 6 interpretable segments validated as free from demographic bias.
+- Engineered a feature pipeline to resolve a 0.98 multicollinearity issue and outlier splits, producing a production-ready pipeline for real-time persona scoring.
 
 </td>
 </tr>
@@ -114,9 +114,9 @@ Computer Science graduate specializing in data science, artificial intelligence/
 **MediaScopePH: Entity-Level Framing of News Coverage on the West Philippine Sea Dispute using RoBERTa and BERT-based Transformer Models**
 `React · Vite · TailwindCSS · Vercel · Render · Neon PostgreSQL · HuggingFace`
 
-- Built an interactive dashboard with Apache ECharts to visualize entity-level framing patterns across local and international news coverage.
-- Combined a pre-trained NER model with cloud-hosted classifiers on HuggingFace Spaces for real-time, auto-selected framing predictions.
-- Deployed the app across Vercel, Render, Neon PostgreSQL, and HuggingFace for reliable public access and persistent result storage.
+- Developed a web-based dashboard to analyze framing patterns across local and international news outlets, facilitating comparative analysis of entity portrayal across sources. 
+- Integrated a pre-trained NER and cloud-hosted transformer models to perform entity-level framing predictions, enabling real-time classification and automated entity selection.
+- Deployed the application across a distributed cloud stack to manage hosting and database, ensuring reliable public access and persistent storage of analysis results.
 
 </td>
 </tr>
