@@ -21,7 +21,7 @@
 
 ## `$ 01_about.sh`
 
-Computer Science graduate specializing in data science, artificial intelligence/machine learning, web development, and cloud infrastructures. Experienced in analyzing and transforming raw data into data-driven insights, designing interactive dashboards, and developing web applications deployed across multiple cloud platforms.
+Computer Science graduate specializing in data analytics, artificial intelligence, web development, and cloud infrastructures. Experienced in analyzing and transforming raw data into data-driven insights, designing interactive dashboards, and developing web applications deployed across multiple cloud platforms.
 
 <br>
 
