@@ -19,7 +19,7 @@
 
 ---
 
-## `$ 01_about.sh`
+## `> about.sh_`
 
 Computer Science graduate specializing in data analytics, artificial intelligence, web development, and cloud infrastructures. Experienced in analyzing and transforming raw data into data-driven insights, designing interactive dashboards, and developing web applications deployed across multiple cloud platforms.
 
@@ -27,7 +27,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 
 ---
 
-## `$ 02_stack.sh`
+## `> stack.sh_`
 
 <div align="center">
 
@@ -75,7 +75,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 
 ---
 
-## `$ 03_projects.sh`
+## `> projects.sh_`
 
 <table width="100%">
 <tr>
@@ -83,11 +83,12 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 <td width="100%" valign="top">
 
 ![PROJECT 01](https://img.shields.io/badge/PROJECT-01-39D353?style=flat-square&labelColor=0A140A)
-**Power BI: Employee Attrition & HR Analytics Dashboard**
-`Google BigQuery · SQL · Power BI · DAX`
+**[MediaScopePH: Entity-Level Framing of News Coverage on the West Philippine Sea Dispute](https://github.com/clayy-esc/Entity-Level-Framing-of-News-Coverage-on-the-West-Philippine-Sea-Dispute)**
+`React · Vite · TailwindCSS · Vercel · Render · Neon PostgreSQL · HuggingFace`
 
-- Created a 5-page Power BI dashboard connected to BigQuery to track attrition across 5,000 employees, surfacing an 18% overall attrition rate, peaking at 24% in Customer Support.
-- Developed 16 DAX measures to transform raw HR data into actionable KPIs, highlighting a 1.3 higher burnout score and a 0.5 wider promotional gap among departing employees. 
+- Developed a web-based dashboard to analyze framing patterns across local and international news outlets, facilitating comparative analysis of entity portrayal across sources.
+- Integrated a pre-trained NER and cloud-hosted transformer models to perform entity-level framing predictions, enabling real-time classification and automated entity selection.
+- Deployed the application across a distributed cloud stack to manage hosting and database, ensuring reliable public access and persistent storage of analysis results.
 
 </td>
 </tr>
@@ -97,7 +98,21 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 <td width="100%" valign="top">
 
 ![PROJECT 02](https://img.shields.io/badge/PROJECT-02-39D353?style=flat-square&labelColor=0A140A)
-**Music Listener Segmentation with Behavioral Clustering**
+**[Power BI: Employee Attrition & HR Analytics Dashboard](https://github.com/clayy-esc/Employee-Attrition-and-HR-Analytics-Dashboard)**
+`Google BigQuery · SQL · Power BI · DAX`
+
+- Created a 5-page Power BI dashboard connected to BigQuery to track attrition across 5,000 employees, surfacing an 18% overall attrition rate, peaking at 24% in Customer Support.
+- Developed 16 DAX measures to transform raw HR data into actionable KPIs, highlighting a 1.3 higher burnout score and a 0.5 wider promotional gap among departing employees.
+
+</td>
+</tr>
+<tr><td colspan="2" height="8"></td></tr>
+<tr>
+<td width="6" bgcolor="#39D353">&nbsp;</td>
+<td width="100%" valign="top">
+
+![PROJECT 03](https://img.shields.io/badge/PROJECT-03-39D353?style=flat-square&labelColor=0A140A)
+**[Music Listener Segmentation with Behavioral Clustering](https://github.com/clayy-esc/Music-Listener-Segmentation-using-Behavioral-Clustering)**
 `Kaggle · Scikit-Learn · Python · Pandas · NumPy · Matplotlib · Seaborn`
 
 - Built a K-Means model to analyze 4,000 listener records for behavior-based personas, delivering 6 interpretable segments validated as free from demographic bias.
@@ -110,13 +125,26 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 <td width="6" bgcolor="#39D353">&nbsp;</td>
 <td width="100%" valign="top">
 
-![PROJECT 03](https://img.shields.io/badge/PROJECT-03-39D353?style=flat-square&labelColor=0A140A)
-**MediaScopePH: Entity-Level Framing of News Coverage on the West Philippine Sea Dispute using RoBERTa and BERT-based Transformer Models**
-`React · Vite · TailwindCSS · Vercel · Render · Neon PostgreSQL · HuggingFace`
+![PROJECT 04](https://img.shields.io/badge/PROJECT-04-39D353?style=flat-square&labelColor=0A140A)
+**[Web Crawling and Scraping with Scrapy: Job Data Extraction from OnlineJobsPH](https://github.com/clayy-esc/Web-Crawling-and-Scraping-with-Scrapy__Job-Data-Extraction-from-OnlineJobsPH)**
+`Python · Scrapy`
 
-- Developed a web-based dashboard to analyze framing patterns across local and international news outlets, facilitating comparative analysis of entity portrayal across sources. 
-- Integrated a pre-trained NER and cloud-hosted transformer models to perform entity-level framing predictions, enabling real-time classification and automated entity selection.
-- Deployed the application across a distributed cloud stack to manage hosting and database, ensuring reliable public access and persistent storage of analysis results.
+- Built an automated Scrapy crawler to extract job listing data directly from OnlineJobsPH at scale.
+- Cleaned and structured the scraped output into a consistent JSON format ready for downstream analysis.
+
+</td>
+</tr>
+<tr><td colspan="2" height="8"></td></tr>
+<tr>
+<td width="6" bgcolor="#39D353">&nbsp;</td>
+<td width="100%" valign="top">
+
+![PROJECT 05](https://img.shields.io/badge/PROJECT-05-39D353?style=flat-square&labelColor=0A140A)
+**[Power BI: Pizza Sales Analytics Dashboard](https://github.com/clayy-esc/PowerBI-Pizza-Sales-Analytics-Dashboard)**
+`Power BI · DAX · Power Query`
+
+- Built an interactive Power BI dashboard analyzing pizza sales trends, customer purchasing behavior, and menu performance.
+- Applied DAX measures and Power Query transformations to surface menu optimization and sales insights.
 
 </td>
 </tr>
@@ -126,7 +154,80 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 
 ---
 
-## `$ 04_stats.sh`
+## `> exercises.sh_`
+
+<table width="100%">
+<tr>
+<td width="6" bgcolor="#4B5563">&nbsp;</td>
+<td width="100%" valign="top">
+
+![EXERCISE 01](https://img.shields.io/badge/EXERCISE-01-8A8A8A?style=flat-square&labelColor=0A140A)
+**[Visualizing the History of Nobel Prize Winners](https://github.com/clayy-esc/Visualizing-the-History-of-Nobel-Prize-Winners)**
+`Python · Pandas · NumPy · Matplotlib · Seaborn`
+
+- Analyzed Nobel Prize data from 1901–2023 to uncover laureate demographics, decade-level shifts in female representation, and repeat winners.
+
+</td>
+</tr>
+<tr><td colspan="2" height="8"></td></tr>
+<tr>
+<td width="6" bgcolor="#4B5563">&nbsp;</td>
+<td width="100%" valign="top">
+
+![EXERCISE 02](https://img.shields.io/badge/EXERCISE-02-8A8A8A?style=flat-square&labelColor=0A140A)
+**[Exploring NYC Public School Test Result Scores](https://github.com/clayy-esc/Exploring-NYC-Public-School-Test-Result-Scores)**
+`Python · Pandas · Matplotlib`
+
+- Explored NYC public school SAT performance to identify top math schools, the strongest all-around performers, and borough-level score variability.
+
+</td>
+</tr>
+<tr><td colspan="2" height="8"></td></tr>
+<tr>
+<td width="6" bgcolor="#4B5563">&nbsp;</td>
+<td width="100%" valign="top">
+
+![EXERCISE 03](https://img.shields.io/badge/EXERCISE-03-8A8A8A?style=flat-square&labelColor=0A140A)
+**[Getting a Good Sleep at Night](https://github.com/clayy-esc/Getting-a-Good-Sleep-at-Night)**
+`Python · Pandas · Matplotlib`
+
+- Examined how occupation and BMI category relate to sleep duration, quality, and disorder risk across 374 individuals.
+
+</td>
+</tr>
+<tr><td colspan="2" height="8"></td></tr>
+<tr>
+<td width="6" bgcolor="#4B5563">&nbsp;</td>
+<td width="100%" valign="top">
+
+![EXERCISE 04](https://img.shields.io/badge/EXERCISE-04-8A8A8A?style=flat-square&labelColor=0A140A)
+**[Investigating Netflix Movies](https://github.com/clayy-esc/Investigating-Netflix-Movies)**
+`Python · Pandas · NumPy · Matplotlib`
+
+- Investigated Netflix's 2000–2010 movie catalog to uncover genre and duration trends, and identified the decade's most common movie profile.
+
+</td>
+</tr>
+<tr><td colspan="2" height="8"></td></tr>
+<tr>
+<td width="6" bgcolor="#4B5563">&nbsp;</td>
+<td width="100%" valign="top">
+
+![EXERCISE 05](https://img.shields.io/badge/EXERCISE-05-8A8A8A?style=flat-square&labelColor=0A140A)
+**[Uncovering the Oldest Businesses in the World](https://github.com/clayy-esc/Uncovering-Oldest-Businesses-in-the-World)**
+`Python · Pandas`
+
+- Practiced relational join techniques (inner, left, right, outer) across multi-table datasets to surface the world's oldest active businesses.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## `> stats.sh_`
 
 <div align="center">
 
@@ -138,7 +239,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 
 ---
 
-## `$ 05_quote.sh`
+## `> quote.sh_`
 
 <div align="center">
 
