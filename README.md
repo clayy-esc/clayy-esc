@@ -129,8 +129,8 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 **[Web Crawling and Scraping with Scrapy: Job Data Extraction from OnlineJobsPH](https://github.com/clayy-esc/Web-Crawling-and-Scraping-with-Scrapy__Job-Data-Extraction-from-OnlineJobsPH)**
 `Python · Scrapy`
 
-- Built an automated Scrapy crawler to extract job listing data directly from OnlineJobsPH at scale.
-- Cleaned and structured the scraped output into a consistent JSON format ready for downstream analysis.
+- Built an automated Scrapy spider to extract job postings from OnlineJobsPH, structuring the scraped data into clean formats for downstream analysis.
+- Implemented custom item pipelines to clean text and remove duplicate entries, exporting production-ready JSON files for seamless database integration.
 
 </td>
 </tr>
@@ -143,8 +143,8 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 **[Power BI: Pizza Sales Analytics Dashboard](https://github.com/clayy-esc/PowerBI-Pizza-Sales-Analytics-Dashboard)**
 `Power BI · DAX · Power Query`
 
-- Built an interactive Power BI dashboard analyzing pizza sales trends, customer purchasing behavior, and menu performance.
-- Applied DAX measures and Power Query transformations to surface menu optimization and sales insights.
+- Designed a 3-page Power BI dashboard to track a full year of sales, linking multiple relational tables to build a unified view of daily order metrics.
+- Developed custom DAX measures and a Menu Engineering Matrix to rank top and bottom-selling pizzas, providing clear insights to guide menu updates and promotions.
 
 </td>
 </tr>
@@ -165,7 +165,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 **[Visualizing the History of Nobel Prize Winners](https://github.com/clayy-esc/Visualizing-the-History-of-Nobel-Prize-Winners)**
 `Python · Pandas · NumPy · Matplotlib · Seaborn`
 
-- Analyzed Nobel Prize data from 1901–2023 to uncover laureate demographics, decade-level shifts in female representation, and repeat winners.
+- Analyzed 122 years of Nobel Prize records to track winner demographics, identifying US-born men as the most common recipients while highlighting historical first figures.
 
 </td>
 </tr>
@@ -178,7 +178,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 **[Exploring NYC Public School Test Result Scores](https://github.com/clayy-esc/Exploring-NYC-Public-School-Test-Result-Scores)**
 `Python · Pandas · Matplotlib`
 
-- Explored NYC public school SAT performance to identify top math schools, the strongest all-around performers, and borough-level score variability.
+- Filtered NYC public school data to rank top institutions by total SAT scores, computing standard deviations by borough to pinpoint where educational performance gaps were widest.
 
 </td>
 </tr>
@@ -191,7 +191,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 **[Getting a Good Sleep at Night](https://github.com/clayy-esc/Getting-a-Good-Sleep-at-Night)**
 `Python · Pandas · Matplotlib`
 
-- Examined how occupation and BMI category relate to sleep duration, quality, and disorder risk across 374 individuals.
+- Grouped health records for 374 individuals by occupation and BMI to evaluate sleep quality, revealing the top 5 at-risk professions and confirming that insomnia correlates with BMI.
 
 </td>
 </tr>
@@ -204,7 +204,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 **[Investigating Netflix Movies](https://github.com/clayy-esc/Investigating-Netflix-Movies)**
 `Python · Pandas · NumPy · Matplotlib`
 
-- Investigated Netflix's 2000–2010 movie catalog to uncover genre and duration trends, and identified the decade's most common movie profile.
+- Filtered Netflix’s 2000–2010 movie catalog by genre and runtime, determining the most frequent type of movie released on the platform during that decade.
 
 </td>
 </tr>
@@ -217,7 +217,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 **[Uncovering the Oldest Businesses in the World](https://github.com/clayy-esc/Uncovering-Oldest-Businesses-in-the-World)**
 `Python · Pandas`
 
-- Practiced relational join techniques (inner, left, right, outer) across multi-table datasets to surface the world's oldest active businesses.
+- Merged multiple datasets using inner, outer, left, and right joins to organize historical commerce data, mapping the world's oldest continuously operating businesses by country and industry.
 
 </td>
 </tr>
