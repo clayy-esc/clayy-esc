@@ -112,7 +112,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 <td width="100%" valign="top">
 
 ![PROJECT 03](https://img.shields.io/badge/PROJECT-03-39D353?style=flat-square&labelColor=0A140A)
-**[Music Listener Segmentation with Behavioral Clustering](https://github.com/clayy-esc/Music-Listener-Segmentation-using-Behavioral-Clustering)**
+**[Music Listener Segmentation: Behavioral Clustering](https://github.com/clayy-esc/Music-Listener-Segmentation-using-Behavioral-Clustering)**
 `Kaggle · Scikit-Learn · Python · Pandas · NumPy · Matplotlib · Seaborn`
 
 - Built a K-Means model to analyze 4,000 listener records for behavior-based personas, delivering 6 interpretable segments validated as free from demographic bias.
