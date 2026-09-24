@@ -13,6 +13,10 @@
 [![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-0A140A?style=flat-square&logo=github&logoColor=39D353)](https://github.com/clayy-esc)
 [![Email](https://custom-icon-badges.demolab.com/badge/Email-0A140A?style=flat-square&logo=mail&logoColor=39D353)](mailto:clarenceolayta.work@gmail.com)
 
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=clayy-esc&label=PROFILE+VIEWS&color=39D353&style=flat-square)
+
 </div>
 
 <br>
