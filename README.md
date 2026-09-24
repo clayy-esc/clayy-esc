@@ -15,7 +15,7 @@
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=clayy-esc&label=PROFILE+VIEWS&color=39D353&style=flat-square)
+![Hits](https://hits.sh/github.com/clayy-esc.svg?view=total&style=flat-square&label=Profile%20Views&color=39d353&labelColor=0a140a&logo=github&logoColor=39d353)
 
 </div>
 
