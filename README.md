@@ -79,6 +79,42 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 
 ---
 
+## `> ongoing.sh_`
+
+<table width="100%">
+<tr>
+<td width="6" bgcolor="#FFD43B">&nbsp;</td>
+<td width="100%" valign="top">
+
+![ONGOING PROJECT 01](https://img.shields.io/badge/ONGOING-01-FFD43B?style=flat-square&labelColor=0A140A)
+
+**[Lunar: Survey Builder Platform](https://github.com/clayy-esc/Lunar-Platform)**
+`Agentic Development · Vibe Coding · Prompt Engineering`
+
+- A vibe-coded web application for advanced data collection through an interactive survey builder with conditional logic and real-time analytics alongside shareable respondent links.
+
+</td>
+</tr>
+<tr><td colspan="2" height="8"></td></tr>
+<tr>
+<td width="6" bgcolor="#FFD43B">&nbsp;</td>
+<td width="100%" valign="top">
+
+![ONGOING PROJECT 02](https://img.shields.io/badge/ONGOING-02-FFD43B?style=flat-square&labelColor=0A140A)
+
+**[Philippine Crop Production and Climate Risk Lakehouse](https://github.com/clayy-esc/Philippine-Crop-Production-and-Climate-Risk-Lakehouse)**
+`SQL · Python · PySpark · Databricks · ETL · Medallion Architecture · Data Visualization ·  Machine Learning`
+
+- A Databricks ETL pipeline built on the medallion architecture with Unity Catalog that transforms raw crop and climate data into machine learning forecasts and delivers insights through an integrated dashboard.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
 ## `> projects.sh_`
 
 <table width="100%">
