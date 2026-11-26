@@ -103,7 +103,7 @@ Computer Science graduate specializing in data analytics, web development, cloud
 ![ONGOING PROJECT 02](https://img.shields.io/badge/ONGOING-02-FFD43B?style=flat-square&labelColor=0A140A)
 
 **[Philippine Crop Production and Climate Risk Lakehouse](https://github.com/clayy-esc/Philippine-Crop-Production-and-Climate-Risk-Lakehouse)**
-`SQL · Python · PySpark · Databricks · ETL · Medallion Architecture · Data Visualization ·  Machine Learning`
+`SQL · Python · PySpark · Databricks · ETL · Medallion Architecture · Data Visualization · Machine Learning`
 
 - A Databricks ETL pipeline built on the medallion architecture with Unity Catalog that transforms raw crop and climate data into machine learning forecasts and delivers insights through an integrated dashboard.
 
