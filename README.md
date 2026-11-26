@@ -25,7 +25,7 @@
 
 ## `> about_`
 
-Computer Science graduate specializing in data analytics, web development, cloud platforms, and digital tools. Experienced in analyzing and transforming raw data into data-driven insights, designing interactive dashboards, and developing web applications deployed across multiple cloud platforms.
+Computer Science graduate specializing in data analytics, web development, cloud services, and digital tools. Experienced in analyzing and transforming raw data into data-driven insights, designing interactive dashboards, and developing web applications deployed across multiple cloud platforms.
 
 <br>
 
