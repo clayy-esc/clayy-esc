@@ -79,7 +79,7 @@ Computer Science graduate specializing in data analytics, web development, cloud
 
 ---
 
-## `> ongoing_`
+## `> ongoing projects_`
 
 <table width="100%">
 <tr>
