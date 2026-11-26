@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=900&color=39D353&center=true&vCenter=true&width=650&lines=%3E+whoami;Clarence+Olayta;%3E+status%3A+online_" alt="Typing SVG" />
 
-<sub>DATA SCIENCE • AI/ML • WEB DEV • CLOUD</sub>
+<sub>DATA ANALYTICS • WEB DEV • CLOUD • DIGITAL TOOLS</sub>
 
 <br><br>
 
@@ -23,15 +23,15 @@
 
 ---
 
-## `> about.sh_`
+## `> about_`
 
-Computer Science graduate specializing in data analytics, artificial intelligence, web development, and cloud infrastructures. Experienced in analyzing and transforming raw data into data-driven insights, designing interactive dashboards, and developing web applications deployed across multiple cloud platforms.
+Computer Science graduate specializing in data analytics, web development, cloud platforms, and digital tools. Experienced in analyzing and transforming raw data into data-driven insights, designing interactive dashboards, and developing web applications deployed across multiple cloud platforms.
 
 <br>
 
 ---
 
-## `> stack.sh_`
+## `> stack_`
 
 <div align="center">
 
@@ -79,7 +79,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 
 ---
 
-## `> ongoing.sh_`
+## `> ongoing_`
 
 <table width="100%">
 <tr>
@@ -115,7 +115,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 
 ---
 
-## `> projects.sh_`
+## `> projects_`
 
 <table width="100%">
 <tr>
@@ -194,7 +194,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 
 ---
 
-## `> exercises.sh_`
+## `> exercises_`
 
 <table width="100%">
 <tr>
@@ -267,7 +267,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 
 ---
 
-## `> stats.sh_`
+## `> stats_`
 
 <div align="center">
 
@@ -279,7 +279,7 @@ Computer Science graduate specializing in data analytics, artificial intelligenc
 
 ---
 
-## `> quote.sh_`
+## `> quote_`
 
 <div align="center">
 
